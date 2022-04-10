@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jordydepril@gmail.com**
 
-<a href="https://app.daily.dev/Jordy_dp"><img src="https://api.daily.dev/devcards/8a62a942922b43f0b6c92aa8e69595cd.png?r=004" width="400" alt="Jordy De Pril's Dev Card"/></a>
+<a href="https://app.daily.dev/Jordy_dp"><img src="https://api.daily.dev/devcards/8a62a942922b43f0b6c92aa8e69595cd.png?r=6fd" width="400" alt="Jordy De Pril's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
